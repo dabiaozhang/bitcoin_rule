@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## 目标：躺着赚钱
 
-You can use the [editor on GitHub](https://github.com/dabiaozhang/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. 看主区大盘操作
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1. 如果比特币大跌超5%，并且有继续向下的趋势，全部换USDT避险
+2. 如果比特币不涨不跌横盘，可以挑选交易量大，涨幅明显的币追涨
+3. 如果比特币大涨超5%，全部买比特币
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2. 风险操作
 
-### Jekyll Themes
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dabiaozhang/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. 追涨到深夜，如果没有足够的涨势或者消息，睡前尽量把币换到主币或者USDT上，防止8小时后行情变动太大
+2. 每次追涨收益如果超过10%，时刻准备收手
+3. 如果追涨失败，下跌超过5%，并且有继续下跌的趋势，马上割肉
+4. 打新币风险较大，操作更加需要迅速
 
-### Support or Contact
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 4. 操盘小技巧
+
+```markdown
+
+1. 如果买1卖1差价不大，在追涨或割肉时利用市价交易可以更快进入或者离场
+
+```
+
+### 5. 资料链接
+
+```markdown
+
+比特币钱包&交易：https://localbitcoins.com/
+国外ico网站：https://zhuanlan.zhihu.com/p/3043370
+全球币市行情APP名字：MyToken
+
+```
