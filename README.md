@@ -32,7 +32,9 @@
 ### 5. 资料链接
 
 
-####比特币钱包&交易：[https://localbitcoins.com/](https://localbitcoins.com/)
-####国外ico网站：[https://zhuanlan.zhihu.com/p/3043370](https://zhuanlan.zhihu.com/p/3043370)
-####全球币市行情APP名字：MyToken
+比特币钱包&交易：[https://localbitcoins.com/](https://localbitcoins.com/)
+
+国外ico网站：[https://zhuanlan.zhihu.com/p/3043370](https://zhuanlan.zhihu.com/p/3043370)
+
+全球币市行情APP名字：MyToken
 
